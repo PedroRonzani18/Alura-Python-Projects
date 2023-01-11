@@ -1,5 +1,5 @@
 import random
-import math
+import interface
 
 def maximum():
     while (True):
@@ -16,6 +16,9 @@ def maximum():
 
 
 def jogoAdivinhacao():
+
+    interface.cabecalho("Bem vindo ao jogo de Adivinhacao")
+
     maximoTentativas = maximum()
     segredo = random.randint(1, 100)
     pontos = 1000
