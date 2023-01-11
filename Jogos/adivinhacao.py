@@ -15,7 +15,7 @@ def maximum():
         case 3: return 10
 
 
-def jogoAdivinhacao():
+def jogar():
 
     interface.cabecalho("Bem vindo ao jogo de Adivinhacao")
 
