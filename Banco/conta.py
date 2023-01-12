@@ -6,15 +6,23 @@ class Conta:
         self.__saldo = saldo
         self.__limite = limite
 
+    def __str__(self):
+        return f"{self.__numero} - {self.__titular} - {self.__saldo} - {self.__limite}"
+
     @property
     def numero(self): return self.__numero
 
-    @numero.setter
-    def numero(self, numero): self.__numero = numero
+    @property
+    def titular(self): return self.__titular
 
-    def getTitular(self): return self.__titular
-    def getSaldo(self): return self.__saldo
-    def getLimite(self): return self.__limite
+    @property
+    def saldo(self): return self.__saldo
+
+    @property
+    def limite(self): return self.__limite
+
+    @staticmethod
+    def codigo_banco(): return "001"
 
     def depositar(self, valor): self.__saldo += valor
 
@@ -23,3 +31,4 @@ class Conta:
     def transferir(self, destino, valor):
         self.sacar(valor)
         destino.depositar(valor)
+

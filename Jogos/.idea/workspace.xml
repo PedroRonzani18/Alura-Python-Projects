@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="555703bd-b0f7-4f6b-b289-02b37aea0a12" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Banco/Conta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Banco/conta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banco/conta.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Banco/conta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banco/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Banco/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
