@@ -1,5 +1,6 @@
 import re
 
+
 class ExtratorURL:
     def __init__(self, url):
         self.__url = url
@@ -51,7 +52,8 @@ class ExtratorURL:
                 self.__map[prefixo] = sufixo
 
     @property
-    def url(self): return self.__url
+    def url(self):
+        return self.__url
 
     @property
     def base(self):
@@ -59,7 +61,7 @@ class ExtratorURL:
         for key in self.__map.keys():
             chaves.append(key)
         return chaves
-    
+
     @property
     def parametros(self):
         params = []
@@ -69,4 +71,3 @@ class ExtratorURL:
 
     def get_valor(self, key):
         return self.__map[key]
-
