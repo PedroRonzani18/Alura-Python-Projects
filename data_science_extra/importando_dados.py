@@ -41,3 +41,5 @@ def abrindo_dados_diferentes():
 if __name__ == '__main__':
     pd.options.display.width = 320  # pd.set_option('display.width', 320)
     pd.options.display.max_columns = 10  # pd.set_option('display.max_columns',10)
+
+    abrindo_dados_diferentes()

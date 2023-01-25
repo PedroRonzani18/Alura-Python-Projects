@@ -16,15 +16,5 @@ def series():
     print(s1)
 
 
-def dataFrame():
-    data = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-    df1 = pd.DataFrame(data)
-
-    linhas =['Linha' + i for i in range(3)]
-    colunas = ['Coluna' + i for i in range(3)]
-
-    df1 = pd.DataFrame(data = data, index=linhas, columns=)
-
-
 if __name__ == '__main__':
-    dataFrame()
+    series()
