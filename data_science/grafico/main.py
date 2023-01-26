@@ -9,7 +9,7 @@ for notas in range(8):
 x = list(range(1, 9))
 y = notas_matematica
 
-pyplot.plot(x, y, marker='o ')
+pyplot.plot(x, y, marker='o     ')
 pyplot.title("Notas de Matematica")
 pyplot.xlabel("Provas")
 pyplot.ylabel("Notas")
