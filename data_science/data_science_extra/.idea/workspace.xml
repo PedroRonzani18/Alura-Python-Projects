@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e4c123-e579-43eb-9c86-16d078c5a97a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/faixas_de_valor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mais_sobre_graficos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data_science_pandas_2/identificando_e_removendo_outliers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data_science_pandas_2/.idea/data_science_pandas_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../data_science_pandas_2/.idea/data_science_pandas_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data_science_pandas_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../data_science_pandas_2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data_science_pandas_2/criando_agrupamentos.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data_science_pandas_2/criando_agrupamentos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grafico/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../grafico/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="55e4c123-e579-43eb-9c86-16d078c5a97a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/pedro/Documentos/GitHub/Alura-Python-Projects/data_science_extra&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/pedro/Documentos/GitHub/Alura-Python-Projects/data_science/data_science_extra",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.mais_sobre_graficos">
     <configuration name="contadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science_extra" />
