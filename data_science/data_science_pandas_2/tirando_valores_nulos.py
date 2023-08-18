@@ -42,10 +42,10 @@ def remocao_seletiva(dados):
 
 
 if __name__ == '__main__':
-    pd.options.display.width = 320  # pd.set_option('display.width', 320)
-    pd.options.display.max_columns = 10  # pd.set_option('display.max_columns',10)
+        pd.options.display.width = 320  # pd.set_option('display.width', 320)
+        pd.options.display.max_columns = 10  # pd.set_option('display.max_columns',10)
 
-    dados = pd.read_csv('csv/aluguel.residencial.csv', sep=';')
+        dados = pd.read_csv('csv/aluguel.residencial.csv', sep=';')
 
     print(dados)
     remocao_seletiva(dados)
